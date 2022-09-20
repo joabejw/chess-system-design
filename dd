@@ -1,0 +1,53 @@
+[33mcommit d640cff90e76be535c552f43f39806e444d326e3[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: joabe <joabe.18@hotmail.com>
+Date:   Tue Sep 20 10:48:08 2022 -0300
+
+    .gitignore
+
+[33mcommit 886bca7ffbce514b41e711297dff419d24b6f6c3[m
+Author: joabe <joabe.18@hotmail.com>
+Date:   Mon Sep 19 18:15:20 2022 -0300
+
+    ChessException and ChessPosition
+
+[33mcommit f0bea9269f4abd35a632940ecef77ead90bdd2cf[m
+Author: joabe <joabe.18@hotmail.com>
+Date:   Mon Sep 19 17:53:03 2022 -0300
+
+    BoardException and defensive programming
+
+[33mcommit c01a77221cd7c2675420be470c4b1ef3868ceaa8[m
+Author: joabe <joabe.18@hotmail.com>
+Date:   Mon Sep 19 16:48:32 2022 -0300
+
+    Placing pieces on the board
+
+[33mcommit 091c1c1c89c915ac16dababf5e8c13478621e904[m
+Author: joabe <joabe.18@hotmail.com>
+Date:   Mon Sep 19 16:04:28 2022 -0300
+
+    Chess layer and printing the board
+
+[33mcommit e3ba8ca30b10325b406eae5c37b78f76feb16c92[m
+Author: joabe <joabe.18@hotmail.com>
+Date:   Mon Sep 19 15:34:11 2022 -0300
+
+    Starting to implement Board and Piece
+
+[33mcommit ed1600660e68f5040afe764f5c1c614a51cee033[m
+Author: joabe <joabe.18@hotmail.com>
+Date:   Mon Sep 19 15:20:37 2022 -0300
+
+    First class: Position
+
+[33mcommit cee5f66eadfd2ccbb954b16a8f5e8311cb2676a0[m
+Author: joabe <joabe.18@hotmail.com>
+Date:   Mon Sep 19 15:01:22 2022 -0300
+
+    Project created
+
+[33mcommit 709dea9bd3cd9c88fa9bb53c4978d61b630ef14d[m
+Author: joabeJW <98662910+joabejw@users.noreply.github.com>
+Date:   Mon Sep 19 14:18:45 2022 -0300
+
+    Initial commit
